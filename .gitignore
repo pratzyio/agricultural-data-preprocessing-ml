@@ -1,0 +1,12 @@
+# Python bytecode & virtual environments
+__pycache__/
+*.py[cod]
+.venv/
+env/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Raw data files (keep structure, ignore large CSV/data files)
+data/raw/*
+!data/raw/.gitkeep
